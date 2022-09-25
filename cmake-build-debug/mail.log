@@ -1,0 +1,371 @@
+Sep 12 16:50:02 dbmailstg postfix/pipe[29317]: C30B513F91F: to=<rober.lee@104.com.tw>, relay=dbmail-smtp, delay=13, delays=0.02/0.01/0/13, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:02 dbmailstg postfix/qmgr[29286]: C30B513F91F: removed
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: 0DC4D13F91F: client=unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/cleanup[29302]: 0DC4D13F91F: message-id=<1662972607388.33.27123@sappapi-vip.sys.104dc-staging.com>
+Sep 12 16:50:08 dbmailstg postfix/qmgr[29286]: 0DC4D13F91F: from=<cse_104@jblog01.104.com.tw>, size=8228, nrcpt=8 (queue active)
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.0.56] ehlo=1 mail=1 rcpt=8 data=1 quit=1 commands=12
+Sep 12 16:50:08 dbmailstg postfix/local[29329]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29330]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29332]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29333]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29336]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29339]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29343]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: 64D4613F920: client=unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/cleanup[29302]: 64D4613F920: message-id=<1662972607518.34.27123@sappapi-vip.sys.104dc-staging.com>
+Sep 12 16:50:08 dbmailstg postfix/qmgr[29286]: 64D4613F920: from=<cse_104@jblog01.104.com.tw>, size=8228, nrcpt=8 (queue active)
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.0.56] ehlo=1 mail=1 rcpt=8 data=1 quit=1 commands=12
+Sep 12 16:50:08 dbmailstg postfix/local[29358]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29359]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29361]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29365]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29367]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: 83D8213F921: client=unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/cleanup[29302]: 83D8213F921: message-id=<1662972607643.35.27123@sappapi-vip.sys.104dc-staging.com>
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.0.56] ehlo=1 mail=1 rcpt=8 data=1 quit=1 commands=12
+Sep 12 16:50:08 dbmailstg postfix/qmgr[29286]: 83D8213F921: from=<cse_104@jblog01.104.com.tw>, size=8228, nrcpt=8 (queue active)
+Sep 12 16:50:08 dbmailstg postfix/local[29371]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/local[29375]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: 9907B13F923: client=unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/cleanup[29302]: 9907B13F923: message-id=<1662972607771.36.27123@sappapi-vip.sys.104dc-staging.com>
+Sep 12 16:50:08 dbmailstg postfix/local[29379]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.0.56] ehlo=1 mail=1 rcpt=8 data=1 quit=1 commands=12
+Sep 12 16:50:08 dbmailstg postfix/qmgr[29286]: 9907B13F923: from=<cse_104@jblog01.104.com.tw>, size=8228, nrcpt=8 (queue active)
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: A49EF13F924: client=unknown[172.21.0.56]
+Sep 12 16:50:08 dbmailstg postfix/cleanup[29302]: A49EF13F924: message-id=<1662972607895.37.27123@sappapi-vip.sys.104dc-staging.com>
+Sep 12 16:50:08 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.0.56] ehlo=1 mail=1 rcpt=8 data=1 quit=1 commands=12
+Sep 12 16:50:08 dbmailstg postfix/qmgr[29286]: A49EF13F924: from=<cse_104@jblog01.104.com.tw>, size=8228, nrcpt=8 (queue active)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29317]: 0DC4D13F91F: to=<aaron.du@104.com.tw>, relay=dbmail-smtp, delay=3.3, delays=0.02/0.01/0/3.3, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29331]: 0DC4D13F91F: to=<andy.chang@104.com.tw>, relay=dbmail-smtp, delay=3.6, delays=0.02/0.02/0/3.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:11 dbmailstg postfix/local[29393]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:11 dbmailstg postfix/pipe[29341]: 0DC4D13F91F: to=<jazzwe@104.com.tw>, relay=dbmail-smtp, delay=3.7, delays=0.02/0.05/0/3.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29366]: 64D4613F920: to=<dean.liu@104.com.tw>, relay=dbmail-smtp, delay=3.4, delays=0.01/0.05/0/3.3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29383]: 64D4613F920: to=<wilson.chen@104.com.tw>, relay=dbmail-smtp, delay=3.4, delays=0.01/0.21/0/3.2, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29360]: 64D4613F920: to=<aaron.du@104.com.tw>, relay=dbmail-smtp, delay=3.4, delays=0.01/0.02/0/3.4, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29344]: 0DC4D13F91F: to=<kimura.hsieh@104.com.tw>, relay=dbmail-smtp, delay=3.9, delays=0.02/0.1/0/3.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29337]: 0DC4D13F91F: to=<gino.liu@104.com.tw>, relay=dbmail-smtp, delay=3.9, delays=0.02/0.04/0/3.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:11 dbmailstg postfix/pipe[29334]: 0DC4D13F91F: to=<dean.liu@104.com.tw>, relay=dbmail-smtp, delay=3.9, delays=0.02/0.03/0/3.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/pipe[29376]: 64D4613F920: to=<kimura.hsieh@104.com.tw>, relay=dbmail-smtp, delay=3.6, delays=0.01/0.14/0/3.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/pipe[29363]: 64D4613F920: to=<andy.chang@104.com.tw>, relay=dbmail-smtp, delay=3.6, delays=0.01/0.03/0/3.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/pipe[29373]: 64D4613F920: to=<jazzwe@104.com.tw>, relay=dbmail-smtp, delay=3.7, delays=0.01/0.1/0/3.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/pipe[29380]: 64D4613F920: to=<kuanpo.chen@104.com.tw>, relay=dbmail-smtp, delay=3.7, delays=0.01/0.17/0/3.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/pipe[29369]: 64D4613F920: to=<gino.liu@104.com.tw>, relay=dbmail-smtp, delay=3.7, delays=0.01/0.08/0/3.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/cleanup[29302]: 1DFCB13F93F: message-id=<20220912085012.1DFCB13F93F@staging-mail.104.com.tw>
+Sep 12 16:50:12 dbmailstg postfix/bounce[29390]: 64D4613F920: sender non-delivery notification: 1DFCB13F93F
+Sep 12 16:50:12 dbmailstg postfix/qmgr[29286]: 1DFCB13F93F: from=<>, size=10187, nrcpt=1 (queue active)
+Sep 12 16:50:12 dbmailstg postfix/qmgr[29286]: 64D4613F920: removed
+Sep 12 16:50:12 dbmailstg postfix/pipe[29347]: 0DC4D13F91F: to=<kuanpo.chen@104.com.tw>, relay=dbmail-smtp, delay=4.2, delays=0.02/0.13/0/4, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/local[29420]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:12 dbmailstg postfix/pipe[29349]: 0DC4D13F91F: to=<wilson.chen@104.com.tw>, relay=dbmail-smtp, delay=4.3, delays=0.02/0.18/0/4.1, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:12 dbmailstg postfix/cleanup[29302]: 5895213F920: message-id=<20220912085012.5895213F920@staging-mail.104.com.tw>
+Sep 12 16:50:12 dbmailstg postfix/bounce[29390]: 0DC4D13F91F: sender non-delivery notification: 5895213F920
+Sep 12 16:50:12 dbmailstg postfix/qmgr[29286]: 5895213F920: from=<>, size=10187, nrcpt=1 (queue active)
+Sep 12 16:50:12 dbmailstg postfix/qmgr[29286]: 0DC4D13F91F: removed
+Sep 12 16:50:14 dbmailstg postfix/pipe[29344]: 83D8213F921: to=<kimura.hsieh@104.com.tw>, relay=dbmail-smtp, delay=5.8, delays=0.01/3.4/0/2.4, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:14 dbmailstg postfix/pipe[29317]: 83D8213F921: to=<aaron.du@104.com.tw>, relay=dbmail-smtp, delay=5.8, delays=0.01/2.8/0/2.9, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:14 dbmailstg postfix/local[29432]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:50:14 dbmailstg postfix/pipe[29383]: 83D8213F921: to=<wilson.chen@104.com.tw>, relay=dbmail-smtp, delay=5.9, delays=0.01/3.3/0/2.7, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:14 dbmailstg postfix/pipe[29337]: 83D8213F921: to=<gino.liu@104.com.tw>, relay=dbmail-smtp, delay=6.1, delays=0.01/3.4/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:14 dbmailstg postfix/pipe[29331]: 83D8213F921: to=<andy.chang@104.com.tw>, relay=dbmail-smtp, delay=6.1, delays=0.01/3.1/0/3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:14 dbmailstg postfix/pipe[29341]: 83D8213F921: to=<jazzwe@104.com.tw>, relay=dbmail-smtp, delay=6.1, delays=0.01/3.2/0/2.9, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:14 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.8.19]
+Sep 12 16:50:14 dbmailstg postfix/smtpd[29311]: 9551F13F93C: client=unknown[172.21.8.19]
+Sep 12 16:50:14 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 quit=1 commands=4
+Sep 12 16:50:14 dbmailstg postfix/pipe[29360]: 9907B13F923: to=<aaron.du@104.com.tw>, relay=dbmail-smtp, delay=6.1, delays=0.02/3.2/0/2.9, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:14 dbmailstg postfix/pipe[29380]: 83D8213F921: to=<kuanpo.chen@104.com.tw>, relay=dbmail-smtp, delay=6.2, delays=0.01/3.6/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:14 dbmailstg postfix/pipe[29376]: 9907B13F923: to=<kimura.hsieh@104.com.tw>, relay=dbmail-smtp, delay=6.1, delays=0.02/3.4/0/2.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:14 dbmailstg postfix/pipe[29334]: 9907B13F923: to=<dean.liu@104.com.tw>, relay=dbmail-smtp, delay=6.3, delays=0.02/3.3/0/2.9, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:15 dbmailstg postfix/pipe[29347]: 9907B13F923: to=<kuanpo.chen@104.com.tw>, relay=dbmail-smtp, delay=6.4, delays=0.02/3.6/0/2.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:15 dbmailstg postfix/pipe[29369]: 9907B13F923: to=<gino.liu@104.com.tw>, relay=dbmail-smtp, delay=6.5, delays=0.02/3.5/0/3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:15 dbmailstg postfix/pipe[29363]: 9907B13F923: to=<andy.chang@104.com.tw>, relay=dbmail-smtp, delay=6.5, delays=0.02/3.4/0/3.1, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:15 dbmailstg postfix/pipe[29373]: 9907B13F923: to=<jazzwe@104.com.tw>, relay=dbmail-smtp, delay=6.5, delays=0.02/3.5/0/3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:15 dbmailstg postfix/pipe[29349]: 9907B13F923: to=<wilson.chen@104.com.tw>, relay=dbmail-smtp, delay=6.7, delays=0.02/3.7/0/3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:15 dbmailstg postfix/cleanup[29302]: 576A313F93E: message-id=<20220912085015.576A313F93E@staging-mail.104.com.tw>
+Sep 12 16:50:15 dbmailstg postfix/pipe[29366]: 83D8213F921: to=<dean.liu@104.com.tw>, relay=dbmail-smtp, delay=6.8, delays=0.01/3.3/0/3.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:15 dbmailstg postfix/bounce[29390]: 9907B13F923: sender non-delivery notification: 576A313F93E
+Sep 12 16:50:15 dbmailstg postfix/qmgr[29286]: 576A313F93E: from=<>, size=10187, nrcpt=1 (queue active)
+Sep 12 16:50:15 dbmailstg postfix/qmgr[29286]: 9907B13F923: removed
+Sep 12 16:50:15 dbmailstg postfix/pipe[29426]: 5895213F920: to=<cse_104@jblog01.104.com.tw>, relay=dbmail-smtp, delay=3, delays=0.01/0/0/3, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:15 dbmailstg postfix/qmgr[29286]: 5895213F920: removed
+Sep 12 16:50:15 dbmailstg postfix/pipe[29416]: 1DFCB13F93F: to=<cse_104@jblog01.104.com.tw>, relay=dbmail-smtp, delay=3.3, delays=0.01/0/0/3.2, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:15 dbmailstg postfix/qmgr[29286]: 1DFCB13F93F: removed
+Sep 12 16:50:15 dbmailstg postfix/cleanup[29302]: 5C2E113F923: message-id=<20220912085015.5C2E113F923@staging-mail.104.com.tw>
+Sep 12 16:50:15 dbmailstg postfix/bounce[29390]: 83D8213F921: sender non-delivery notification: 5C2E113F923
+Sep 12 16:50:15 dbmailstg postfix/qmgr[29286]: 5C2E113F923: from=<>, size=10187, nrcpt=1 (queue active)
+Sep 12 16:50:15 dbmailstg postfix/qmgr[29286]: 83D8213F921: removed
+Sep 12 16:50:16 dbmailstg postfix/pipe[29317]: A49EF13F924: to=<aaron.du@104.com.tw>, relay=dbmail-smtp, delay=8.3, delays=0.02/5.6/0/2.6, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:17 dbmailstg postfix/pipe[29383]: A49EF13F924: to=<wilson.chen@104.com.tw>, relay=dbmail-smtp, delay=8.4, delays=0.02/5.8/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:17 dbmailstg postfix/pipe[29341]: A49EF13F924: to=<gino.liu@104.com.tw>, relay=dbmail-smtp, delay=8.5, delays=0.02/5.9/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:17 dbmailstg postfix/pipe[29344]: A49EF13F924: to=<kimura.hsieh@104.com.tw>, relay=dbmail-smtp, delay=8.5, delays=0.02/5.6/0/2.9, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:17 dbmailstg postfix/pipe[29337]: A49EF13F924: to=<andy.chang@104.com.tw>, relay=dbmail-smtp, delay=8.6, delays=0.02/5.9/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:17 dbmailstg postfix/pipe[29380]: A49EF13F924: to=<dean.liu@104.com.tw>, relay=dbmail-smtp, delay=8.7, delays=0.02/6.2/0/2.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:17 dbmailstg postfix/pipe[29360]: A49EF13F924: to=<kuanpo.chen@104.com.tw>, relay=dbmail-smtp, delay=8.7, delays=0.02/6.1/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:17 dbmailstg postfix/pipe[29331]: A49EF13F924: to=<jazzwe@104.com.tw>, relay=dbmail-smtp, delay=8.8, delays=0.02/5.9/0/2.9, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:17 dbmailstg postfix/cleanup[29302]: 7488F13F920: message-id=<20220912085017.7488F13F920@staging-mail.104.com.tw>
+Sep 12 16:50:17 dbmailstg postfix/bounce[29451]: A49EF13F924: sender non-delivery notification: 7488F13F920
+Sep 12 16:50:17 dbmailstg postfix/qmgr[29286]: 7488F13F920: from=<>, size=10187, nrcpt=1 (queue active)
+Sep 12 16:50:17 dbmailstg postfix/qmgr[29286]: A49EF13F924: removed
+Sep 12 16:50:17 dbmailstg postfix/pipe[29347]: 5C2E113F923: to=<cse_104@jblog01.104.com.tw>, relay=dbmail-smtp, delay=2.4, delays=0.02/0/0/2.4, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:17 dbmailstg postfix/qmgr[29286]: 5C2E113F923: removed
+Sep 12 16:50:17 dbmailstg postfix/pipe[29334]: 576A313F93E: to=<cse_104@jblog01.104.com.tw>, relay=dbmail-smtp, delay=2.5, delays=0.01/0.01/0/2.5, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:17 dbmailstg postfix/qmgr[29286]: 576A313F93E: removed
+Sep 12 16:50:19 dbmailstg postfix/pipe[29349]: 7488F13F920: to=<cse_104@jblog01.104.com.tw>, relay=dbmail-smtp, delay=1.9, delays=0.01/0.34/0/1.5, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:50:19 dbmailstg postfix/qmgr[29286]: 7488F13F920: removed
+Sep 12 16:50:29 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.8.19]
+Sep 12 16:50:29 dbmailstg postfix/smtpd[29311]: 957FF13F91F: client=unknown[172.21.8.19]
+Sep 12 16:50:29 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 quit=1 commands=4
+Sep 12 16:50:44 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.8.19]
+Sep 12 16:50:44 dbmailstg postfix/smtpd[29311]: 9670F13F91F: client=unknown[172.21.8.19]
+Sep 12 16:50:44 dbmailstg postfix/smtpd[29311]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:50:44 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:50:54 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.0.7]
+Sep 12 16:50:54 dbmailstg postfix/smtpd[29311]: 62CCD13F91F: client=unknown[172.21.0.7]
+Sep 12 16:50:54 dbmailstg postfix/cleanup[29302]: 62CCD13F91F: message-id=<90b2c80c0a25e23032c97b51023cdda3@private-job-api.104dc-staging.com>
+Sep 12 16:50:54 dbmailstg postfix/qmgr[29286]: 62CCD13F91F: from=<jbcp@104.com.tw>, size=2785, nrcpt=1 (queue active)
+Sep 12 16:50:54 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.0.7] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:50:54 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.0.7]
+Sep 12 16:50:54 dbmailstg postfix/smtpd[29311]: C655713F920: client=unknown[172.21.0.7]
+Sep 12 16:50:54 dbmailstg postfix/cleanup[29302]: C655713F920: message-id=<173202612.1.1662972654672.JavaMail.root@soms01.sys.104dc-staging.com>
+Sep 12 16:50:54 dbmailstg postfix/qmgr[29286]: C655713F920: from=<root@soms01.sys.104dc-staging.com>, size=1383, nrcpt=1 (queue active)
+Sep 12 16:50:54 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.0.7] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:50:56 dbmailstg postfix/pipe[29347]: C655713F920: to=<linda.lee@104.com.tw>, relay=dbmail-smtp, delay=1.5, delays=0.02/0/0/1.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:56 dbmailstg postfix/qmgr[29286]: C655713F920: removed
+Sep 12 16:50:58 dbmailstg postfix/pickup[29285]: E87D013F921: uid=111 from=<jbcp@104.com.tw>
+Sep 12 16:50:58 dbmailstg postfix/cleanup[29302]: E87D013F921: message-id=<90b2c80c0a25e23032c97b51023cdda3@private-job-api.104dc-staging.com>
+Sep 12 16:50:58 dbmailstg postfix/qmgr[29286]: E87D013F921: from=<jbcp@104.com.tw>, size=2906, nrcpt=1 (queue active)
+Sep 12 16:50:58 dbmailstg postfix/smtp[29467]: E87D013F921: to=<benson.ke@mail.104-staging.com.tw>, relay=none, delay=0.17, delays=0.16/0.01/0/0, dsn=5.4.6, status=bounced (mail for mail.104-staging.com.tw loops back to myself)
+Sep 12 16:50:58 dbmailstg postfix/cleanup[29302]: F27C513F923: message-id=<20220912085058.F27C513F923@staging-mail.104.com.tw>
+Sep 12 16:50:59 dbmailstg postfix/qmgr[29286]: F27C513F923: from=<>, size=4962, nrcpt=1 (queue active)
+Sep 12 16:50:59 dbmailstg postfix/bounce[29451]: E87D013F921: sender non-delivery notification: F27C513F923
+Sep 12 16:50:59 dbmailstg postfix/qmgr[29286]: E87D013F921: removed
+Sep 12 16:50:59 dbmailstg postfix/pipe[29376]: 62CCD13F91F: to=<4AE01@104.com.tw>, relay=dbmail-smtp, delay=4.7, delays=0.01/0/0/4.7, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:50:59 dbmailstg postfix/qmgr[29286]: 62CCD13F91F: removed
+Sep 12 16:50:59 dbmailstg postfix/smtpd[29311]: connect from unknown[172.21.8.19]
+Sep 12 16:50:59 dbmailstg postfix/smtpd[29311]: 952E313F91F: client=unknown[172.21.8.19]
+Sep 12 16:50:59 dbmailstg postfix/smtpd[29311]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:50:59 dbmailstg postfix/smtpd[29311]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:51:00 dbmailstg postfix/pipe[29363]: F27C513F923: to=<jbcp@104.com.tw>, relay=dbmail-smtp, delay=1.4, delays=0.01/0/0/1.4, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:51:00 dbmailstg postfix/qmgr[29286]: F27C513F923: removed
+Sep 12 16:51:01 dbmailstg postfix/postfix-script[29481]: stopping the Postfix mail system
+Sep 12 16:51:01 dbmailstg postfix/master[29284]: terminating on signal 15
+Sep 12 16:51:01 dbmailstg postfix/postfix-script[29484]: waiting for the Postfix mail system to terminate
+Sep 12 16:51:02 dbmailstg postfix/postfix-script[29642]: starting the Postfix mail system
+Sep 12 16:51:02 dbmailstg postfix/master[29644]: daemon started -- version 3.3.0, configuration /etc/postfix
+Sep 12 16:51:02 dbmailstg postfix/qmgr[29654]: warning: qmgr_message_recipient_limit is smaller than qmgr_message_active_limit - adjusting qmgr_message_recipient_limit
+Sep 12 16:51:02 dbmailstg postfix/pickup[29653]: BAC1913F920: uid=0 from=<root>
+Sep 12 16:51:02 dbmailstg postfix/cleanup[29662]: BAC1913F920: message-id=<20220912085102.BAC1913F920@staging-mail.104.com.tw>
+Sep 12 16:51:02 dbmailstg postfix/qmgr[29654]: BAC1913F920: from=<root@dbmailstg.sys.104dc-staging.com>, size=1287, nrcpt=1 (queue active)
+Sep 12 16:51:02 dbmailstg postfix/local[29664]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:51:04 dbmailstg postfix/pipe[29665]: BAC1913F920: to=<root@dbmailstg.sys.104dc-staging.com>, orig_to=<root>, relay=dbmail-smtp, delay=1.6, delays=0.05/0.01/0/1.5, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:51:04 dbmailstg postfix/cleanup[29662]: 51A8213F921: message-id=<20220912085104.51A8213F921@staging-mail.104.com.tw>
+Sep 12 16:51:04 dbmailstg postfix/qmgr[29654]: 51A8213F921: from=<>, size=3343, nrcpt=1 (queue active)
+Sep 12 16:51:04 dbmailstg postfix/bounce[29668]: BAC1913F920: sender non-delivery notification: 51A8213F921
+Sep 12 16:51:04 dbmailstg postfix/qmgr[29654]: BAC1913F920: removed
+Sep 12 16:51:05 dbmailstg postfix/pipe[29665]: 51A8213F921: to=<root@dbmailstg.sys.104dc-staging.com>, relay=dbmail-smtp, delay=1.6, delays=0.01/0/0/1.6, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:51:05 dbmailstg postfix/qmgr[29654]: 51A8213F921: removed
+Sep 12 16:51:09 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.0.7]
+Sep 12 16:51:09 dbmailstg postfix/smtpd[29672]: B335213F91F: client=unknown[172.21.0.7]
+Sep 12 16:51:09 dbmailstg postfix/cleanup[29662]: B335213F91F: message-id=<2096268324.19.1662972669488.JavaMail.root@soms01.sys.104dc-staging.com>
+Sep 12 16:51:09 dbmailstg postfix/qmgr[29654]: B335213F91F: from=<root@soms01.sys.104dc-staging.com>, size=880, nrcpt=1 (queue active)
+Sep 12 16:51:09 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.0.7] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:51:11 dbmailstg postfix/pipe[29665]: B335213F91F: to=<jiajun.chou@104.com.tw>, relay=dbmail-smtp, delay=1.9, delays=0.01/0/0/1.9, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:51:11 dbmailstg postfix/qmgr[29654]: B335213F91F: removed
+Sep 12 16:51:14 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:51:14 dbmailstg postfix/smtpd[29672]: 9586D13F91F: client=unknown[172.21.8.19]
+Sep 12 16:51:14 dbmailstg postfix/smtpd[29672]: lost connection after QUIT from unknown[172.21.8.19]
+Sep 12 16:51:14 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 quit=0/1 commands=3/4
+Sep 12 16:51:17 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.0.7]
+Sep 12 16:51:17 dbmailstg postfix/smtpd[29672]: 5498B13F91F: client=unknown[172.21.0.7]
+Sep 12 16:51:17 dbmailstg postfix/cleanup[29662]: 5498B13F91F: message-id=<744039943c357238e0459a5fab45d4ec@private-job-api.104dc-staging.com>
+Sep 12 16:51:17 dbmailstg postfix/qmgr[29654]: 5498B13F91F: from=<jbcp@104.com.tw>, size=2585, nrcpt=1 (queue active)
+Sep 12 16:51:17 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.0.7] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:51:21 dbmailstg postfix/pickup[29653]: 1DC6413F921: uid=111 from=<jbcp@104.com.tw>
+Sep 12 16:51:21 dbmailstg postfix/cleanup[29662]: 1DC6413F921: message-id=<744039943c357238e0459a5fab45d4ec@private-job-api.104dc-staging.com>
+Sep 12 16:51:21 dbmailstg postfix/qmgr[29654]: 1DC6413F921: from=<jbcp@104.com.tw>, size=2706, nrcpt=1 (queue active)
+Sep 12 16:51:21 dbmailstg postfix/pipe[29665]: 5498B13F91F: to=<4AE01@104.com.tw>, relay=dbmail-smtp, delay=3.8, delays=0.01/0/0/3.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:51:21 dbmailstg postfix/qmgr[29654]: 5498B13F91F: removed
+Sep 12 16:51:21 dbmailstg postfix/smtp[29681]: 1DC6413F921: to=<benson.ke@mail.104-staging.com.tw>, relay=none, delay=0.06, delays=0.04/0.01/0/0, dsn=5.4.6, status=bounced (mail for mail.104-staging.com.tw loops back to myself)
+Sep 12 16:51:21 dbmailstg postfix/cleanup[29662]: 2C20613F920: message-id=<20220912085121.2C20613F920@staging-mail.104.com.tw>
+Sep 12 16:51:21 dbmailstg postfix/qmgr[29654]: 2C20613F920: from=<>, size=4762, nrcpt=1 (queue active)
+Sep 12 16:51:21 dbmailstg postfix/bounce[29669]: 1DC6413F921: sender non-delivery notification: 2C20613F920
+Sep 12 16:51:21 dbmailstg postfix/qmgr[29654]: 1DC6413F921: removed
+Sep 12 16:51:22 dbmailstg postfix/pipe[29665]: 2C20613F920: to=<jbcp@104.com.tw>, relay=dbmail-smtp, delay=1.5, delays=0.01/0/0/1.5, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:51:22 dbmailstg postfix/qmgr[29654]: 2C20613F920: removed
+Sep 12 16:51:29 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:51:29 dbmailstg postfix/smtpd[29672]: 9514013F91F: client=unknown[172.21.8.19]
+Sep 12 16:51:29 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:51:29 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:51:37 dbmailstg dbmail/pop3d[23023]: Error:[pop3] pop3(+776): user [yuri.luo] tried to login with wrong password
+Sep 12 16:51:38 dbmailstg dbmail/pop3d[23023]: Error:[pop3] pop3(+502): user [yuri.luo] coming from [10.4.6.17] tried to login with wrong password
+Sep 12 16:51:44 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:51:44 dbmailstg postfix/smtpd[29672]: 953AC13F91F: client=unknown[172.21.8.19]
+Sep 12 16:51:44 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 quit=1 commands=4
+Sep 12 16:51:52 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.0.7]
+Sep 12 16:51:52 dbmailstg postfix/smtpd[29672]: 257E713F91F: client=unknown[172.21.0.7]
+Sep 12 16:51:52 dbmailstg postfix/cleanup[29662]: 257E713F91F: message-id=<5edc4e45ae12f3e26415ef0d9bba22b6@wsp-jb-my104.104dc-staging.com>
+Sep 12 16:51:52 dbmailstg postfix/qmgr[29654]: 257E713F91F: from=<jobbank@104.com.tw>, size=23237, nrcpt=1 (queue active)
+Sep 12 16:51:52 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.0.7] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:51:53 dbmailstg postfix/pipe[29665]: 257E713F91F: to=<rober.lee@104.com.tw>, relay=dbmail-smtp, delay=1.5, delays=0.01/0/0/1.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:51:53 dbmailstg postfix/qmgr[29654]: 257E713F91F: removed
+Sep 12 16:51:54 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.0.7]
+Sep 12 16:51:54 dbmailstg postfix/smtpd[29672]: CC3A813F91F: client=unknown[172.21.0.7]
+Sep 12 16:51:54 dbmailstg postfix/cleanup[29662]: CC3A813F91F: message-id=<389650567.2.1662972714686.JavaMail.root@soms01.sys.104dc-staging.com>
+Sep 12 16:51:54 dbmailstg postfix/qmgr[29654]: CC3A813F91F: from=<root@soms01.sys.104dc-staging.com>, size=18651, nrcpt=1 (queue active)
+Sep 12 16:51:54 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.0.7] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:51:56 dbmailstg postfix/pipe[29665]: CC3A813F91F: to=<irene.liu@104.com.tw>, relay=dbmail-smtp, delay=1.2, delays=0.01/0/0/1.2, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:51:56 dbmailstg postfix/cleanup[29662]: 0D4A613F921: message-id=<20220912085156.0D4A613F921@staging-mail.104.com.tw>
+Sep 12 16:51:56 dbmailstg postfix/qmgr[29654]: 0D4A613F921: from=<>, size=20627, nrcpt=1 (queue active)
+Sep 12 16:51:56 dbmailstg postfix/bounce[29668]: CC3A813F91F: sender non-delivery notification: 0D4A613F921
+Sep 12 16:51:56 dbmailstg postfix/qmgr[29654]: CC3A813F91F: removed
+Sep 12 16:51:56 dbmailstg postfix/smtp[29681]: 0D4A613F921: to=<root@soms01.sys.104dc-staging.com>, relay=soms01.sys.104dc-staging.com[172.21.0.7]:25, delay=0.09, delays=0.01/0/0.05/0.02, dsn=2.0.0, status=sent (250 2.0.0 Ok: queued as 0D1CD1064FF)
+Sep 12 16:51:56 dbmailstg postfix/qmgr[29654]: 0D4A613F921: removed
+Sep 12 16:51:59 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:51:59 dbmailstg postfix/smtpd[29672]: 9601413F91F: client=unknown[172.21.8.19]
+Sep 12 16:51:59 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:51:59 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:52:14 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:52:14 dbmailstg postfix/smtpd[29672]: 95BE613F91F: client=unknown[172.21.8.19]
+Sep 12 16:52:14 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:52:14 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:52:23 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.0.7]
+Sep 12 16:52:23 dbmailstg postfix/smtpd[29672]: C362F13F91F: client=unknown[172.21.0.7]
+Sep 12 16:52:23 dbmailstg postfix/cleanup[29662]: C362F13F91F: message-id=<3c3d8cea91bcd1d87815c499f497752b@private-job-api.104dc-staging.com>
+Sep 12 16:52:23 dbmailstg postfix/qmgr[29654]: C362F13F91F: from=<jbcp@104.com.tw>, size=2786, nrcpt=1 (queue active)
+Sep 12 16:52:23 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.0.7] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:52:26 dbmailstg postfix/pickup[29653]: CFF7113F921: uid=111 from=<jbcp@104.com.tw>
+Sep 12 16:52:26 dbmailstg postfix/cleanup[29662]: CFF7113F921: message-id=<3c3d8cea91bcd1d87815c499f497752b@private-job-api.104dc-staging.com>
+Sep 12 16:52:26 dbmailstg postfix/qmgr[29654]: CFF7113F921: from=<jbcp@104.com.tw>, size=2907, nrcpt=1 (queue active)
+Sep 12 16:52:26 dbmailstg postfix/pipe[29665]: C362F13F91F: to=<4AE01@104.com.tw>, relay=dbmail-smtp, delay=3.1, delays=0.01/0/0/3.1, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:52:26 dbmailstg postfix/qmgr[29654]: C362F13F91F: removed
+Sep 12 16:52:26 dbmailstg postfix/smtp[29681]: CFF7113F921: to=<benson.ke@mail.104-staging.com.tw>, relay=none, delay=0.05, delays=0.02/0/0.02/0, dsn=5.4.6, status=bounced (mail for mail.104-staging.com.tw loops back to myself)
+Sep 12 16:52:26 dbmailstg postfix/cleanup[29662]: DBC7413F920: message-id=<20220912085226.DBC7413F920@staging-mail.104.com.tw>
+Sep 12 16:52:26 dbmailstg postfix/qmgr[29654]: DBC7413F920: from=<>, size=4963, nrcpt=1 (queue active)
+Sep 12 16:52:26 dbmailstg postfix/bounce[29668]: CFF7113F921: sender non-delivery notification: DBC7413F920
+Sep 12 16:52:26 dbmailstg postfix/qmgr[29654]: CFF7113F921: removed
+Sep 12 16:52:27 dbmailstg postfix/pipe[29665]: DBC7413F920: to=<jbcp@104.com.tw>, relay=dbmail-smtp, delay=0.96, delays=0.01/0/0/0.95, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:52:27 dbmailstg postfix/qmgr[29654]: DBC7413F920: removed
+Sep 12 16:52:29 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:52:29 dbmailstg postfix/smtpd[29672]: 9599D13F91F: client=unknown[172.21.8.19]
+Sep 12 16:52:29 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:52:29 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:52:44 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:52:44 dbmailstg postfix/smtpd[29672]: 95A6D13F91F: client=unknown[172.21.8.19]
+Sep 12 16:52:44 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:52:44 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:52:59 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:52:59 dbmailstg postfix/smtpd[29672]: 955B913F91F: client=unknown[172.21.8.19]
+Sep 12 16:52:59 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:52:59 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:53:09 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.0.56]
+Sep 12 16:53:09 dbmailstg postfix/smtpd[29672]: B0F8313F91F: client=unknown[172.21.0.56]
+Sep 12 16:53:09 dbmailstg postfix/cleanup[29662]: B0F8313F91F: message-id=<nLELJeriK9uqXmED0nXUu5kfnVy6WNIejCxAiIKPM@provip.104dc-staging.com>
+Sep 12 16:53:09 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.0.56] ehlo=1 mail=1 rcpt=1 data=1 quit=1 commands=5
+Sep 12 16:53:09 dbmailstg postfix/qmgr[29654]: B0F8313F91F: from=<CSE_104jobbank@104.com.tw>, size=6136, nrcpt=1 (queue active)
+Sep 12 16:53:09 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.0.56]
+Sep 12 16:53:09 dbmailstg postfix/smtpd[29672]: B95C113F920: client=unknown[172.21.0.56]
+Sep 12 16:53:09 dbmailstg postfix/cleanup[29662]: B95C113F920: message-id=<nLELJeriK9uqXmED0nXUu5kfnVy6WNIejCxAiIKPM@provip.104dc-staging.com>
+Sep 12 16:53:09 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.0.56] ehlo=1 mail=1 rcpt=21 data=1 quit=1 commands=25
+Sep 12 16:53:09 dbmailstg postfix/qmgr[29654]: B95C113F920: from=<CSE_104jobbank@104.com.tw>, size=6111, nrcpt=21 (queue active)
+Sep 12 16:53:09 dbmailstg postfix/local[29918]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:09 dbmailstg postfix/local[29919]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:09 dbmailstg postfix/local[29922]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:09 dbmailstg postfix/local[29924]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:09 dbmailstg postfix/local[29928]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:09 dbmailstg postfix/local[29932]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29935]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29938]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29941]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29946]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29950]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29954]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29959]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29963]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29966]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29976]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29983]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29986]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:10 dbmailstg postfix/local[29990]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:11 dbmailstg postfix/local[29993]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:11 dbmailstg postfix/local[29997]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:53:11 dbmailstg dbmail/deliver[29931]: Error:[message] sort_deliver_to_mailbox(+2200): error copying message to user [4109],maxmail exceeded
+Sep 12 16:53:11 dbmailstg postfix/pipe[29920]: B95C113F920: to=<adam.lee@104.com.tw>, relay=dbmail-smtp, delay=1.9, delays=0.03/0.03/0/1.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:11 dbmailstg postfix/pipe[29665]: B0F8313F91F: to=<harbor.liu@104.com.tw>, relay=dbmail-smtp, delay=2, delays=0.01/0/0/2, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:11 dbmailstg postfix/qmgr[29654]: B0F8313F91F: removed
+Sep 12 16:53:11 dbmailstg postfix/pipe[29925]: B95C113F920: to=<celine.yang@104.com.tw>, relay=dbmail-smtp, delay=2, delays=0.03/0.07/0/1.9, dsn=5.2.0, status=bounced (can't create user output file)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29923]: B95C113F920: to=<angus.lee@104.com.tw>, relay=dbmail-smtp, delay=2.4, delays=0.03/0.05/0/2.3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29930]: B95C113F920: to=<claudia.zhou@104.com.tw>, relay=dbmail-smtp, delay=2.5, delays=0.03/0.15/0/2.3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29933]: B95C113F920: to=<flora.chen@104.com.tw>, relay=dbmail-smtp, delay=2.5, delays=0.03/0.17/0/2.3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29939]: B95C113F920: to=<harbor.liu@104.com.tw>, relay=dbmail-smtp, delay=2.6, delays=0.03/0.27/0/2.3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29936]: B95C113F920: to=<haohan.liu@104.com.tw>, relay=dbmail-smtp, delay=2.7, delays=0.03/0.21/0/2.4, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29943]: B95C113F920: to=<jack.yu@104.com.tw>, relay=dbmail-smtp, delay=2.9, delays=0.03/0.34/0/2.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29956]: B95C113F920: to=<natz.liu@104.com.tw>, relay=dbmail-smtp, delay=3.1, delays=0.03/0.59/0/2.4, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29961]: B95C113F920: to=<neil.hsiao@104.com.tw>, relay=dbmail-smtp, delay=3.1, delays=0.03/0.68/0/2.4, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29951]: B95C113F920: to=<kent.hsieh@104.com.tw>, relay=dbmail-smtp, delay=3.2, delays=0.03/0.51/0/2.7, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:12 dbmailstg postfix/pipe[29948]: B95C113F920: to=<joyce@104.com.tw>, relay=dbmail-smtp, delay=3.2, delays=0.03/0.42/0/2.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29965]: B95C113F920: to=<nick.li@104.com.tw>, relay=dbmail-smtp, delay=3.3, delays=0.03/0.78/0/2.5, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29977]: B95C113F920: to=<recca.chao@104.com.tw>, relay=dbmail-smtp, delay=3.4, delays=0.03/0.93/0/2.4, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29991]: B95C113F920: to=<snic.huang@104.com.tw>, relay=dbmail-smtp, delay=3.6, delays=0.03/1.1/0/2.4, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[30003]: B95C113F920: to=<yuri.luo@104.com.tw>, relay=dbmail-smtp, delay=3.6, delays=0.03/1.3/0/2.3, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29968]: B95C113F920: to=<ray.zhang@104.com.tw>, relay=dbmail-smtp, delay=3.8, delays=0.03/0.86/0/2.9, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29984]: B95C113F920: to=<rex@104.com.tw>, relay=dbmail-smtp, delay=3.8, delays=0.03/1/0/2.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29995]: B95C113F920: to=<vicky.jhang@104.com.tw>, relay=dbmail-smtp, delay=3.8, delays=0.03/1.2/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29998]: B95C113F920: to=<wayne.wang@104.com.tw>, relay=dbmail-smtp, delay=3.9, delays=0.03/1.3/0/2.6, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/pipe[29987]: B95C113F920: to=<sally.huang@104.com.tw>, relay=dbmail-smtp, delay=3.9, delays=0.03/1/0/2.8, dsn=2.0.0, status=sent (delivered via dbmail-smtp service)
+Sep 12 16:53:13 dbmailstg postfix/cleanup[29662]: 9B3B113F91F: message-id=<20220912085313.9B3B113F91F@staging-mail.104.com.tw>
+Sep 12 16:53:13 dbmailstg postfix/bounce[29669]: B95C113F920: sender non-delivery notification: 9B3B113F91F
+Sep 12 16:53:13 dbmailstg postfix/qmgr[29654]: 9B3B113F91F: from=<>, size=8333, nrcpt=1 (queue active)
+Sep 12 16:53:13 dbmailstg postfix/qmgr[29654]: B95C113F920: removed
+Sep 12 16:53:14 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:53:14 dbmailstg postfix/smtpd[29672]: 9589C13F920: client=unknown[172.21.8.19]
+Sep 12 16:53:14 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:53:14 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:53:14 dbmailstg postfix/pipe[29920]: 9B3B113F91F: to=<CSE_104jobbank@104.com.tw>, relay=dbmail-smtp, delay=1, delays=0.01/0/0/1, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:53:14 dbmailstg postfix/qmgr[29654]: 9B3B113F91F: removed
+Sep 12 16:53:29 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:53:29 dbmailstg postfix/smtpd[29672]: 9589B13F91F: client=unknown[172.21.8.19]
+Sep 12 16:53:29 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:53:29 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:53:44 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:53:44 dbmailstg postfix/smtpd[29672]: 959F013F91F: client=unknown[172.21.8.19]
+Sep 12 16:53:44 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 quit=1 commands=4
+Sep 12 16:53:59 dbmailstg postfix/smtpd[29672]: connect from unknown[172.21.8.19]
+Sep 12 16:53:59 dbmailstg postfix/smtpd[29672]: 9625D13F91F: client=unknown[172.21.8.19]
+Sep 12 16:53:59 dbmailstg postfix/smtpd[29672]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:53:59 dbmailstg postfix/smtpd[29672]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:54:01 dbmailstg postfix/postfix-script[30105]: stopping the Postfix mail system
+Sep 12 16:54:01 dbmailstg postfix/master[29644]: terminating on signal 15
+Sep 12 16:54:02 dbmailstg postfix/postfix-script[30262]: starting the Postfix mail system
+Sep 12 16:54:02 dbmailstg postfix/master[30264]: daemon started -- version 3.3.0, configuration /etc/postfix
+Sep 12 16:54:02 dbmailstg postfix/qmgr[30266]: warning: qmgr_message_recipient_limit is smaller than qmgr_message_active_limit - adjusting qmgr_message_recipient_limit
+Sep 12 16:54:02 dbmailstg postfix/pickup[30265]: C845013F920: uid=0 from=<root>
+Sep 12 16:54:02 dbmailstg postfix/cleanup[30282]: C845013F920: message-id=<20220912085402.C845013F920@staging-mail.104.com.tw>
+Sep 12 16:54:02 dbmailstg postfix/qmgr[30266]: C845013F920: from=<root@dbmailstg.sys.104dc-staging.com>, size=1287, nrcpt=1 (queue active)
+Sep 12 16:54:02 dbmailstg postfix/local[30284]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Sep 12 16:54:04 dbmailstg postfix/pipe[30285]: C845013F920: to=<root@dbmailstg.sys.104dc-staging.com>, orig_to=<root>, relay=dbmail-smtp, delay=1.7, delays=0.31/0.02/0/1.4, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:54:04 dbmailstg postfix/cleanup[30282]: 44FD313F921: message-id=<20220912085404.44FD313F921@staging-mail.104.com.tw>
+Sep 12 16:54:04 dbmailstg postfix/bounce[30288]: C845013F920: sender non-delivery notification: 44FD313F921
+Sep 12 16:54:04 dbmailstg postfix/qmgr[30266]: 44FD313F921: from=<>, size=3343, nrcpt=1 (queue active)
+Sep 12 16:54:04 dbmailstg postfix/qmgr[30266]: C845013F920: removed
+Sep 12 16:54:05 dbmailstg postfix/pipe[30285]: 44FD313F921: to=<root@dbmailstg.sys.104dc-staging.com>, relay=dbmail-smtp, delay=1.4, delays=0.12/0/0/1.3, dsn=5.1.1, status=bounced (user unknown)
+Sep 12 16:54:05 dbmailstg postfix/qmgr[30266]: 44FD313F921: removed
+Sep 12 16:54:14 dbmailstg postfix/smtpd[30293]: connect from unknown[172.21.8.19]
+Sep 12 16:54:14 dbmailstg postfix/smtpd[30293]: 9A84F13F91F: client=unknown[172.21.8.19]
+Sep 12 16:54:14 dbmailstg postfix/smtpd[30293]: lost connection after QUIT from unknown[172.21.8.19]
+Sep 12 16:54:14 dbmailstg postfix/smtpd[30293]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 quit=0/1 commands=3/4
+Sep 12 16:54:29 dbmailstg postfix/smtpd[30293]: connect from unknown[172.21.8.19]
+Sep 12 16:54:29 dbmailstg postfix/smtpd[30293]: 9634213F91F: client=unknown[172.21.8.19]
+Sep 12 16:54:29 dbmailstg postfix/smtpd[30293]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:54:29 dbmailstg postfix/smtpd[30293]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:54:44 dbmailstg postfix/smtpd[30293]: connect from unknown[172.21.8.19]
+Sep 12 16:54:44 dbmailstg postfix/smtpd[30293]: 9608813F91F: client=unknown[172.21.8.19]
+Sep 12 16:54:44 dbmailstg postfix/smtpd[30293]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:54:44 dbmailstg postfix/smtpd[30293]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
+Sep 12 16:54:59 dbmailstg postfix/smtpd[30293]: connect from unknown[172.21.8.19]
+Sep 12 16:54:59 dbmailstg postfix/smtpd[30293]: 95BF313F91F: client=unknown[172.21.8.19]
+Sep 12 16:54:59 dbmailstg postfix/smtpd[30293]: lost connection after RCPT from unknown[172.21.8.19]
+Sep 12 16:54:59 dbmailstg postfix/smtpd[30293]: disconnect from unknown[172.21.8.19] ehlo=1 mail=1 rcpt=1 commands=3
